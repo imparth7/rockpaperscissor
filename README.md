@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-![Rock Paper Scissors](rock_paper_scissors.jpg)
+![Rock Paper Scissors](./rock-paper-scissor.png)
 
 ## Introduction
 
