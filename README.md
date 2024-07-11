@@ -1,6 +1,8 @@
 # Rock Paper Scissors Game
 
+<center>
 ![Rock Paper Scissors](./rock-paper-scissor.png)
+</center>
 
 ## Introduction
 
