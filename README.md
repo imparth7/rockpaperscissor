@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 
 <center>
-![Rock Paper Scissors](./rock-paper-scissor.png)
+<img src="./rock-paper-scissor.png" alt="Rock Paper Scissors" title="Rock Paper Scissors" />
 </center>
 
 ## Introduction
